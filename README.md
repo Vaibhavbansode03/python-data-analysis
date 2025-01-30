@@ -1,4 +1,17 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+# Python_Sales_Analysis
+Objective :
+Learn how to manipulate and analyze data using Python libraries.
 
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+Instructions:
+Work with libraries such as Pandas and NumPy to perform data
+manipulation tasks. Use a publicly available dataset and perform tasks
+like filtering, grouping, and aggregating data. Create basic data
+visualizations using Matplotlib or Seaborn. Upload your data
+manipulation scripts and visualizations to your GitHub repository.
+
+Outcome:
+This task will enhance your ability to work with data in Python, a
+critical skill for any developer
+
+
+
